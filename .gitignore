@@ -1,0 +1,6 @@
+# estos no los permitimos
+*.md
+
+# estos si los permitimos
+!README.md
+!LICENSE.md
